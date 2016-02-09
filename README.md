@@ -13,10 +13,6 @@ For other systems you can access the official site addressed above.
 
 ##Usage
 
-Give the program executable privileges:
+Execute it with the following pattern:
 
-    chmod a+x simplescrobbler.py
-
-Then execute it with the following pattern:
-
-    LASTFM_USERNAME="your lastfm username (without quotes)" LASTFM_PASSWORD="your lastfm password (without quotes)" ./simplescrobbler.py "path to the song"
+    LASTFM_USERNAME="your lastfm username (without quotes)" LASTFM_PASSWORD="your lastfm password (without quotes)" python3 simplescrobbler.py "path to the song"
