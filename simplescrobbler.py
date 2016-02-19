@@ -10,8 +10,8 @@ import mutagen
 from mutagen.mp3 import MP3
 from mutagen.id3 import ID3
 
-api_key = '151a2aa3dfd936fdc0dc8a2935fd437b'
-secret = '58222ddbf7ffc58222e3c1d07315a5ef'
+api_key = ''
+secret = ''
 base = 'http://ws.audioscrobbler.com/2.0/'
 basehttps = 'https://ws.audioscrobbler.com/2.0/'
 
